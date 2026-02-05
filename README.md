@@ -15,10 +15,10 @@ A simple REST API built with Node.js, Express, and MongoDB for managing books.
 - Mongoose
 
 ## API Endpoints
-GET /list
-POST /addBook
-PUT /updateBook/:book_id
-DELETE /deleteBook/:book_id
+- GET /list
+- POST /addBook
+- PUT /updateBook/:book_id
+- DELETE /deleteBook/:book_id
 
 ## Run Project
 npm install
