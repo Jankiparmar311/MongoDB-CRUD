@@ -21,5 +21,6 @@ A simple REST API built with Node.js, Express, and MongoDB for managing books.
 - DELETE /deleteBook/:book_id
 
 ## Run Project
+```bash
 npm install
 npm start
